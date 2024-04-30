@@ -1,0 +1,8 @@
+.board-row{
+    display:flex;
+    flex-direction: row;
+}
+
+.status{
+    margin-bottom: 10px;
+}
