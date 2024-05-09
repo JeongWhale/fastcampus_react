@@ -50,7 +50,7 @@ const Logo = styled.a`
     padding: 0;
     width: 80px;
     margin-top: 4px;
-    margin-bottom: 70px;
+    max-height: 70px;
     font-size: 0;
     display: inline-block;
 

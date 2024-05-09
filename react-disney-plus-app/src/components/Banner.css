@@ -35,10 +35,12 @@
     .space{
         margin-left: 6px;
     }
-    .banner_button{
-        font-size: 0.8rem !important;
-        border-radius: 4px !important;
-    }
+    
+}
+
+.banner_button{
+    font-size: 0.8rem !important;
+    border-radius: 4px !important;
 }
 
 .banner_contents{
